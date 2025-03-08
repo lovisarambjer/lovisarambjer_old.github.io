@@ -61,22 +61,13 @@ author:
   name   : "Lovisa Rambjer"
   avatar : "/assets/images/LR.jpg"
   bio    : "PhD Candidate in Economics at Uppsala University"
+  
   links:
-    - label: "Website"
+    - label: "Official Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.uu.se/en/contact-and-organisation/staff?query=N19-1016"
 
-footer:
-
+#footer:
 #  links:
 #   - label: "Twitter" 
 #      icon: "fab fa-fw fa-twitter-square"
