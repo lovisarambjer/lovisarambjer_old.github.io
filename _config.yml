@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Lovisa Rambjer"
+  avatar : "/assets/images/LR.jpg"
+  bio    : "PhD Candidate in Economics at Uppsala University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -76,8 +76,9 @@ author:
       url: "https://instagram.com/"
 
 footer:
+<!--
   links:
-    - label: "Twitter"
+   - label: "Twitter" 
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
@@ -86,7 +87,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-
+--> 
 defaults:
   # _posts
   - scope:
