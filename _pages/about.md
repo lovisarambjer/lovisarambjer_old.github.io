@@ -1,5 +1,0 @@
----
-permalink: /CV/
-title: "CV"
----
-
